@@ -1,6 +1,0 @@
-let iceCream = 'Chocolate';
-if(iceCream==='Chocolate'){
-    alert('Yay i love iceCream');
-}   else{
-    alert('But Chocolate is my fAVRIT');
-}
