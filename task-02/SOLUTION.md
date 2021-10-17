@@ -24,4 +24,4 @@
 5. cd ..
    cat North.txt East.txt > Location-Coordinate.txt
   
-![map ss](~/Desktop/Coordinates-Location/mapss.png)
+![map ss](~/Desktop/amfossrecruit/task-02/mapss.png)
