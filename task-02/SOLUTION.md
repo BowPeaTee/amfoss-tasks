@@ -21,7 +21,7 @@
 	- v) mv EastCoordinate.txt East.txt  
 	   mv East.txt ~/Desktop/Coordinates-Location/
 
-5. cd ..
+5. cd ..  
    cat North.txt East.txt > Location-Coordinate.txt
   
 ![map ss](~/Desktop/amfossrecruit/task-02/mapss.png)
