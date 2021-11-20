@@ -18,4 +18,4 @@
 [Task-12](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-12)|Make the Block|Not attempted till yet 
 [Task-13](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-13)|Circuit Design|Not attempted till yet 
 [Task-14](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-15)|Project Euler|Attempting
+[Task-15](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-15)|Project Euler|Partially done
