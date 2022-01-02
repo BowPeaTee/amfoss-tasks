@@ -1,9 +1,10 @@
 from pip._vendor import requests
 date=input('Enter date')
 ide=int(input("Enter ID"))
+api=input('Enter API KEY')
 l=['spirit','curiosity','opportunity']
 for rover in l:
-	response=requests.get("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date="+date+"&api_key=15AprzMowARDYrOCuDzi6jvvZJuQ5S4xGoqcoaSG")
+	response=requests.get("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date="+date+"&api_key="+api)
 	fil=response.json()["photos"]
 	for i in fil:
 		if i['id']==ide:
