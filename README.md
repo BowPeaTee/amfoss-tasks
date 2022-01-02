@@ -5,7 +5,7 @@
 --------------|---------------|---------------
 [Task-00](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-00)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-02)|Registering nick in IRC Freenode|Completed
+[Task-02](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-02)|Map Coordinates|Completed
 [Task-03](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-03)|Programming|Partially done
 [Task-04](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Completed
 [Task-05](https://github.com/BowPeaTee/amfoss-tasks/tree/main/task-05)|Let me C|Completed
